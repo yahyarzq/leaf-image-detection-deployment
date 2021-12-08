@@ -23,7 +23,7 @@ Agar dapat memprediksi daun jambu atau daun nangka, data input model harus mengi
 -   templates/
     -   index.html --> Berisi template website.
 -   app.py --> Berisi konfigurasi route dan proses prediksi model untuk API.
--   elephant_lion_class_model.h5 --> Model Image Classification CNN yang sudah di-training.
+-   leaf_class_model.h5 --> Model Image Classification CNN yang sudah di-training.
 -   requirements.txt --> Berisi daftar dependency/package Python yang diperlukan untuk menjalankan API dan model Image Classification CNN.
 
 #
